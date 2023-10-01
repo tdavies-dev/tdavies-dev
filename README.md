@@ -1,6 +1,6 @@
 Welcome to my GitHub page!
 
-Note that not all of my coding activity will appear here - I often work on private version control hosts due to data sensitivity 😉
+Note that not all of my coding activity will appear here - I often work on private version control hosts due to data sensitivity.
 
 ## Bio
 Data scientist, analyst, statistican. My background is in Computer Science and I've worked with data throughout my professional career. In today's age effective data science involves incorporating lessons from the world of software engineering, and this idea is at the forefront of my personal development. Currently working as a statistican in the public sector. 
